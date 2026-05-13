@@ -1,4 +1,4 @@
-# Multi-Omic Aging & Splicing Clock Pipeline
+# Integrative Multi-Omic Analysis Reveals Mid-Life Epigenetic and Splicing Transitions in Human Blood Aging
 
 This repository contains the source code for the "Multi-Omic Aging & Splicing Clock" project. It includes a comprehensive pipeline for analyzing isoform-level transcriptomic data, identifying aging-associated signals, and building predictive machine learning models (Splicing Clocks).
 
