@@ -24,11 +24,6 @@ The `MASTER_AGING_PIPELINE.py` script aggregates the discovery, survival, and ML
 - Required Packages: `pandas`, `numpy`, `scikit-learn`, `statsmodels`, `scipy`, `matplotlib`, `seaborn`
 
 ### Execution
-To run the full production pipeline:
-```bash
-python MASTER_AGING_PIPELINE.py
-```
-Outputs (results and figures) will be saved in the `production_results/` folder.
 
 ## Data Availability
 This pipeline is designed to work with GTEx and multi-tissue transcriptomic data. Metadata requirements include:
