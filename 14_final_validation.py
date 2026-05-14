@@ -58,7 +58,7 @@ def run_final_scientific_fortress():
     print("[3/3] Addressing Issue 8: Cleaning Final Table Formatting...")
     # We will ensure the final CSV has clean, non-broken strings
     df_elite['Isoform'] = df_elite['Isoform'].apply(lambda x: str(x).replace('ENST', 'ENS-T')) # Standardize
-    df_elite.to_csv("Final_Fortress_Results_Clean.csv", index=False)
+    df_elite.to_csv("Final_Validation_Results_Clean.csv", index=False)
     
     print("Final Fortress stats gathered. Updating manuscript now.")
 
